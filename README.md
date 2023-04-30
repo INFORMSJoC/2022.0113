@@ -33,7 +33,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
   title =         {{CacheTest}},
   year =          {2020},
   doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
+  note =          {available for download at https://github.com/INFORMSJoC/2019.0000},
 }  
 ```
 
