@@ -5,7 +5,7 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-This repository contains supporting material for the paper [Distributionally Robust Chance Constrained $p$-Hub Center Problem](https://doi.org/????) by Y. Zhao, Z. Chen and Z.Z. Zhang.
+This repository contains supporting material for the paper [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/????) by Y. Zhao, Z. Chen and Z.Z. Zhang.
 
 
 ## Cite
