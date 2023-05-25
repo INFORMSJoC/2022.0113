@@ -36,7 +36,7 @@ This repository includes
 
 ### Data files
 
-Instance data files are located in the folder [data](data), where [CAB.txt](data/CAB.txt) contains all the 100 locations in CAB dataset, out of which [CABCircle.csv](data/CABCircle.csv) contains 35 locations for experiments. 
+Instance data files are located in the folder [data](data). [CABCircle.csv](data/CABCircle.csv) contains 35 locations for most of our experiments, while [CAB.txt](data/CAB.txt) contains up to 100 locations (all the nodes in CAB dataset) to test the scalability of our algorithms. 
 
 
 ### Results
