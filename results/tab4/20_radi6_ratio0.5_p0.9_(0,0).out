@@ -1,0 +1,507 @@
+######################## Seed 0 ########################
+JCC Vs. ICC  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. SAA  (Avg) 0.528  (Max) 0.726  (Quan) 0.531
+JCC Vs. Hult  (Avg) 0.556  (Max) 0.740  (Quan) 0.579
+ICC Vs. SAA  (Avg) 0.528  (Max) 0.726  (Quan) 0.531
+ICC Vs. Hult (Avg) 0.556  (Max) 0.740  (Quan) 0.579
+SAA Vs. Hult  (Avg) 0.531  (Max) 0.766  (Quan) 0.571
+Avg 947.281 947.281 954.632 962.775
+Max 2126.233 2126.233 2113.346 2133.440
+Qua 1597.140 1597.140 1600.955 1635.583
+######################## Seed 1 ########################
+JCC Vs. ICC  (Avg) 0.470  (Max) 0.944  (Quan) 0.758
+JCC Vs. SAA  (Avg) 0.326  (Max) 0.469  (Quan) 0.521
+JCC Vs. Hult  (Avg) 0.579  (Max) 0.741  (Quan) 0.595
+ICC Vs. SAA  (Avg) 0.334  (Max) 0.449  (Quan) 0.496
+ICC Vs. Hult (Avg) 0.580  (Max) 0.678  (Quan) 0.546
+SAA Vs. Hult  (Avg) 0.716  (Max) 0.540  (Quan) 0.541
+Avg 1067.555 1065.326 998.163 1090.317
+Max 2262.145 2284.804 2231.321 2271.088
+Qua 1683.537 1701.381 1702.668 1726.490
+######################## Seed 2 ########################
+JCC Vs. ICC  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+Avg 963.204 963.204 963.204 963.204
+Max 2163.610 2163.610 2163.610 2163.610
+Qua 1571.205 1571.205 1571.205 1571.205
+######################## Seed 3 ########################
+JCC Vs. ICC  (Avg) 0.629  (Max) 0.535  (Quan) 0.571
+JCC Vs. SAA  (Avg) 0.659  (Max) 0.665  (Quan) 0.533
+JCC Vs. Hult  (Avg) 0.629  (Max) 0.535  (Quan) 0.571
+ICC Vs. SAA  (Avg) 0.468  (Max) 0.510  (Quan) 0.443
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.532  (Max) 0.491  (Quan) 0.557
+Avg 947.000 998.163 985.380 998.163
+Max 2194.940 2231.321 2242.355 2231.321
+Qua 1648.917 1702.668 1656.092 1702.668
+######################## Seed 4 ########################
+JCC Vs. ICC  (Avg) 0.556  (Max) 0.565  (Quan) 0.583
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.556  (Max) 0.565  (Quan) 0.583
+ICC Vs. SAA  (Avg) 0.444  (Max) 0.438  (Quan) 0.417
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.556  (Max) 0.565  (Quan) 0.583
+Avg 954.632 974.930 954.632 974.930
+Max 2113.346 2177.506 2113.346 2177.506
+Qua 1600.955 1665.232 1600.955 1665.232
+######################## Seed 5 ########################
+JCC Vs. ICC  (Avg) 0.228  (Max) 0.596  (Quan) 0.306
+JCC Vs. SAA  (Avg) 0.228  (Max) 0.596  (Quan) 0.306
+JCC Vs. Hult  (Avg) 0.228  (Max) 0.596  (Quan) 0.306
+ICC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+Avg 998.163 974.930 974.930 974.930
+Max 2231.321 2177.506 2177.506 2177.506
+Qua 1702.668 1665.232 1665.232 1665.232
+######################## Seed 6 ########################
+JCC Vs. ICC  (Avg) 0.444  (Max) 0.694  (Quan) 0.467
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.444  (Max) 0.694  (Quan) 0.467
+ICC Vs. SAA  (Avg) 0.557  (Max) 0.725  (Quan) 0.576
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.444  (Max) 0.694  (Quan) 0.467
+Avg 1002.653 985.906 1002.653 985.906
+Max 2235.058 2219.178 2235.058 2219.178
+Qua 1725.493 1679.607 1725.493 1679.607
+######################## Seed 7 ########################
+JCC Vs. ICC  (Avg) 0.695  (Max) 0.586  (Quan) 0.452
+JCC Vs. SAA  (Avg) 0.640  (Max) 0.685  (Quan) 0.429
+JCC Vs. Hult  (Avg) 0.732  (Max) 0.610  (Quan) 0.496
+ICC Vs. SAA  (Avg) 0.253  (Max) 0.734  (Quan) 0.561
+ICC Vs. Hult (Avg) 0.708  (Max) 0.996  (Quan) 0.684
+SAA Vs. Hult  (Avg) 0.800  (Max) 0.776  (Quan) 0.638
+Avg 979.217 1040.429 1020.115 1055.417
+Max 2225.125 2290.853 2250.247 2310.355
+Qua 1735.687 1728.876 1725.357 1735.954
+######################## Seed 8 ########################
+JCC Vs. ICC  (Avg) 0.778  (Max) 0.543  (Quan) 0.559
+JCC Vs. SAA  (Avg) 0.373  (Max) 0.818  (Quan) 0.696
+JCC Vs. Hult  (Avg) 0.778  (Max) 0.543  (Quan) 0.559
+ICC Vs. SAA  (Avg) 0.210  (Max) 0.443  (Quan) 0.462
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.790  (Max) 0.557  (Quan) 0.538
+Avg 952.858 1070.711 945.058 1070.711
+Max 2212.390 2253.287 2196.787 2253.287
+Qua 1655.085 1689.998 1675.739 1689.998
+######################## Seed 9 ########################
+JCC Vs. ICC  (Avg) 0.911  (Max) 0.703  (Quan) 0.783
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.911  (Max) 0.703  (Quan) 0.783
+ICC Vs. SAA  (Avg) 0.089  (Max) 0.297  (Quan) 0.217
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.911  (Max) 0.703  (Quan) 0.783
+Avg 958.796 1190.975 958.796 1190.975
+Max 2181.936 2434.592 2181.936 2434.592
+Qua 1608.314 1837.597 1608.314 1837.597
+######################## Seed 10 ########################
+JCC Vs. ICC  (Avg) 0.385  (Max) 0.500  (Quan) 0.409
+JCC Vs. SAA  (Avg) 0.437  (Max) 0.441  (Quan) 0.470
+JCC Vs. Hult  (Avg) 0.470  (Max) 0.410  (Quan) 0.419
+ICC Vs. SAA  (Avg) 0.484  (Max) 0.518  (Quan) 0.552
+ICC Vs. Hult (Avg) 0.543  (Max) 0.767  (Quan) 0.543
+SAA Vs. Hult  (Avg) 0.538  (Max) 0.471  (Quan) 0.462
+Avg 981.528 963.204 958.796 972.104
+Max 2265.780 2163.610 2181.936 2153.578
+Qua 1634.732 1571.205 1608.314 1577.025
+######################## Seed 11 ########################
+JCC Vs. ICC  (Avg) 0.688  (Max) 0.560  (Quan) 0.577
+JCC Vs. SAA  (Avg) 0.596  (Max) 0.476  (Quan) 0.477
+JCC Vs. Hult  (Avg) 0.688  (Max) 0.560  (Quan) 0.577
+ICC Vs. SAA  (Avg) 0.394  (Max) 0.412  (Quan) 0.394
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.606  (Max) 0.588  (Quan) 0.606
+Avg 914.822 985.906 947.281 985.906
+Max 2158.022 2219.178 2126.233 2219.178
+Qua 1618.691 1679.607 1597.140 1679.607
+######################## Seed 12 ########################
+JCC Vs. ICC  (Avg) 0.538  (Max) 0.471  (Quan) 0.462
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.515  (Max) 0.482  (Quan) 0.448
+ICC Vs. SAA  (Avg) 0.462  (Max) 0.528  (Quan) 0.538
+ICC Vs. Hult (Avg) 0.457  (Max) 0.807  (Quan) 0.509
+SAA Vs. Hult  (Avg) 0.515  (Max) 0.482  (Quan) 0.448
+Avg 958.796 972.104 958.796 963.204
+Max 2181.936 2153.578 2181.936 2163.610
+Qua 1608.314 1577.025 1608.314 1571.205
+######################## Seed 13 ########################
+JCC Vs. ICC  (Avg) 0.383  (Max) 0.468  (Quan) 0.376
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.484  (Max) 0.508  (Quan) 0.463
+ICC Vs. SAA  (Avg) 0.617  (Max) 0.532  (Quan) 0.624
+ICC Vs. Hult (Avg) 0.916  (Max) 0.971  (Quan) 0.900
+SAA Vs. Hult  (Avg) 0.484  (Max) 0.508  (Quan) 0.463
+Avg 1002.653 954.246 1002.653 994.011
+Max 2235.058 2204.716 2235.058 2247.089
+Qua 1725.493 1615.963 1725.493 1689.714
+######################## Seed 14 ########################
+JCC Vs. ICC  (Avg) 0.575  (Max) 0.510  (Quan) 0.499
+JCC Vs. SAA  (Avg) 0.426  (Max) 0.576  (Quan) 0.465
+JCC Vs. Hult  (Avg) 0.594  (Max) 0.500  (Quan) 0.504
+ICC Vs. SAA  (Avg) 0.376  (Max) 0.466  (Quan) 0.447
+ICC Vs. Hult (Avg) 0.528  (Max) 0.711  (Quan) 0.529
+SAA Vs. Hult  (Avg) 0.639  (Max) 0.516  (Quan) 0.552
+Avg 939.398 967.328 921.751 974.930
+Max 2186.849 2191.911 2163.425 2177.506
+Qua 1670.474 1661.666 1624.287 1665.232
+######################## Seed 15 ########################
+JCC Vs. ICC  (Avg) 0.333  (Max) 0.513  (Quan) 0.501
+JCC Vs. SAA  (Avg) 0.238  (Max) 0.468  (Quan) 0.405
+JCC Vs. Hult  (Avg) 0.416  (Max) 0.535  (Quan) 0.534
+ICC Vs. SAA  (Avg) 0.279  (Max) 0.623  (Quan) 0.236
+ICC Vs. Hult (Avg) 0.678  (Max) 0.847  (Quan) 0.587
+SAA Vs. Hult  (Avg) 0.984  (Max) 0.988  (Quan) 0.967
+Avg 1067.600 1000.113 956.653 1035.336
+Max 2272.480 2283.158 2237.207 2302.900
+Qua 1706.834 1714.266 1642.863 1734.926
+######################## Seed 16 ########################
+JCC Vs. ICC  (Avg) 0.556  (Max) 0.565  (Quan) 0.583
+JCC Vs. SAA  (Avg) 0.596  (Max) 0.625  (Quan) 0.654
+JCC Vs. Hult  (Avg) 0.556  (Max) 0.565  (Quan) 0.583
+ICC Vs. SAA  (Avg) 0.543  (Max) 0.569  (Quan) 0.581
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.457  (Max) 0.431  (Quan) 0.419
+Avg 954.632 974.930 989.922 974.930
+Max 2113.346 2177.506 2262.121 2177.506
+Qua 1600.955 1665.232 1737.442 1665.232
+######################## Seed 17 ########################
+JCC Vs. ICC  (Avg) 0.528  (Max) 0.726  (Quan) 0.531
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. SAA  (Avg) 0.472  (Max) 0.763  (Quan) 0.524
+ICC Vs. Hult (Avg) 0.472  (Max) 0.763  (Quan) 0.524
+SAA Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+Avg 947.281 954.632 947.281 947.281
+Max 2126.233 2113.346 2126.233 2126.233
+Qua 1597.140 1600.955 1597.140 1597.140
+######################## Seed 18 ########################
+JCC Vs. ICC  (Avg) 0.871  (Max) 0.814  (Quan) 0.693
+JCC Vs. SAA  (Avg) 0.220  (Max) 0.802  (Quan) 0.590
+JCC Vs. Hult  (Avg) 0.805  (Max) 0.742  (Quan) 0.660
+ICC Vs. SAA  (Avg) 0.103  (Max) 0.474  (Quan) 0.335
+ICC Vs. Hult (Avg) 0.150  (Max) 0.664  (Quan) 0.394
+SAA Vs. Hult  (Avg) 0.850  (Max) 0.799  (Quan) 0.616
+Avg 932.535 1071.178 914.822 1036.129
+Max 2184.214 2298.719 2158.022 2208.644
+Qua 1614.447 1708.332 1618.691 1675.848
+######################## Seed 19 ########################
+JCC Vs. ICC  (Avg) 0.501  (Max) 0.442  (Quan) 0.436
+JCC Vs. SAA  (Avg) 0.501  (Max) 0.442  (Quan) 0.436
+JCC Vs. Hult  (Avg) 0.501  (Max) 0.442  (Quan) 0.436
+ICC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+Avg 961.284 962.775 962.775 962.775
+Max 2201.547 2133.440 2133.440 2133.440
+Qua 1688.939 1635.583 1635.583 1635.583
+######################## Seed 20 ########################
+JCC Vs. ICC  (Avg) 0.472  (Max) 0.753  (Quan) 0.525
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. SAA  (Avg) 0.528  (Max) 0.711  (Quan) 0.529
+ICC Vs. Hult (Avg) 0.528  (Max) 0.711  (Quan) 0.529
+SAA Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+Avg 974.930 967.328 974.930 974.930
+Max 2177.506 2191.911 2177.506 2177.506
+Qua 1665.232 1661.666 1665.232 1665.232
+######################## Seed 21 ########################
+JCC Vs. ICC  (Avg) 0.480  (Max) 0.450  (Quan) 0.539
+JCC Vs. SAA  (Avg) 0.557  (Max) 0.541  (Quan) 0.665
+JCC Vs. Hult  (Avg) 0.480  (Max) 0.450  (Quan) 0.539
+ICC Vs. SAA  (Avg) 0.582  (Max) 0.586  (Quan) 0.623
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.418  (Max) 0.414  (Quan) 0.377
+Avg 963.204 954.632 986.272 954.632
+Max 2163.610 2113.346 2206.566 2113.346
+Qua 1571.205 1600.955 1709.210 1600.955
+######################## Seed 22 ########################
+JCC Vs. ICC  (Avg) 0.472  (Max) 0.763  (Quan) 0.524
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.539  (Max) 0.576  (Quan) 0.580
+ICC Vs. SAA  (Avg) 0.528  (Max) 0.726  (Quan) 0.531
+ICC Vs. Hult (Avg) 0.557  (Max) 0.564  (Quan) 0.586
+SAA Vs. Hult  (Avg) 0.539  (Max) 0.576  (Quan) 0.580
+Avg 954.632 947.281 954.632 967.328
+Max 2113.346 2126.233 2113.346 2191.911
+Qua 1600.955 1597.140 1600.955 1661.666
+######################## Seed 23 ########################
+JCC Vs. ICC  (Avg) 0.504  (Max) 0.538  (Quan) 0.577
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.504  (Max) 0.538  (Quan) 0.577
+ICC Vs. SAA  (Avg) 0.496  (Max) 0.462  (Quan) 0.423
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.504  (Max) 0.538  (Quan) 0.577
+Avg 989.220 990.103 989.220 990.103
+Max 2259.069 2300.355 2259.069 2300.355
+Qua 1637.760 1699.810 1637.760 1699.810
+######################## Seed 24 ########################
+JCC Vs. ICC  (Avg) 0.555  (Max) 0.530  (Quan) 0.558
+JCC Vs. SAA  (Avg) 0.383  (Max) 0.493  (Quan) 0.435
+JCC Vs. Hult  (Avg) 0.555  (Max) 0.530  (Quan) 0.558
+ICC Vs. SAA  (Avg) 0.403  (Max) 0.610  (Quan) 0.461
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.597  (Max) 0.650  (Quan) 0.554
+Avg 979.198 998.163 967.328 998.163
+Max 2246.243 2231.321 2191.911 2231.321
+Qua 1671.478 1702.668 1661.666 1702.668
+######################## Seed 25 ########################
+JCC Vs. ICC  (Avg) 0.541  (Max) 0.499  (Quan) 0.568
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.541  (Max) 0.499  (Quan) 0.568
+ICC Vs. SAA  (Avg) 0.459  (Max) 0.501  (Quan) 0.432
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.541  (Max) 0.499  (Quan) 0.568
+Avg 958.796 974.930 958.796 974.930
+Max 2181.936 2177.506 2181.936 2177.506
+Qua 1608.314 1665.232 1608.314 1665.232
+######################## Seed 26 ########################
+JCC Vs. ICC  (Avg) 0.604  (Max) 0.620  (Quan) 0.621
+JCC Vs. SAA  (Avg) 0.847  (Max) 0.929  (Quan) 0.830
+JCC Vs. Hult  (Avg) 0.604  (Max) 0.620  (Quan) 0.621
+ICC Vs. SAA  (Avg) 0.474  (Max) 0.454  (Quan) 0.446
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.526  (Max) 0.546  (Quan) 0.554
+Avg 954.632 994.011 984.813 994.011
+Max 2113.346 2247.089 2197.140 2247.089
+Qua 1600.955 1689.714 1650.011 1689.714
+######################## Seed 27 ########################
+JCC Vs. ICC  (Avg) 0.725  (Max) 0.577  (Quan) 0.670
+JCC Vs. SAA  (Avg) 0.441  (Max) 0.668  (Quan) 0.525
+JCC Vs. Hult  (Avg) 0.725  (Max) 0.577  (Quan) 0.670
+ICC Vs. SAA  (Avg) 0.238  (Max) 0.454  (Quan) 0.331
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.761  (Max) 0.546  (Quan) 0.669
+Avg 1067.555 1159.610 1051.008 1159.610
+Max 2262.145 2340.795 2289.821 2340.795
+Qua 1683.537 1802.434 1690.225 1802.434
+######################## Seed 28 ########################
+JCC Vs. ICC  (Avg) 0.697  (Max) 0.581  (Quan) 0.597
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.697  (Max) 0.581  (Quan) 0.597
+ICC Vs. SAA  (Avg) 0.303  (Max) 0.420  (Quan) 0.404
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.697  (Max) 0.581  (Quan) 0.597
+Avg 954.632 1028.033 954.632 1028.033
+Max 2113.346 2203.996 2113.346 2203.996
+Qua 1600.955 1674.063 1600.955 1674.063
+######################## Seed 29 ########################
+JCC Vs. ICC  (Avg) 0.618  (Max) 0.576  (Quan) 0.647
+JCC Vs. SAA  (Avg) 0.324  (Max) 0.469  (Quan) 0.384
+JCC Vs. Hult  (Avg) 0.735  (Max) 0.661  (Quan) 0.546
+ICC Vs. SAA  (Avg) 0.249  (Max) 0.427  (Quan) 0.323
+ICC Vs. Hult (Avg) 0.479  (Max) 0.603  (Quan) 0.383
+SAA Vs. Hult  (Avg) 0.735  (Max) 0.580  (Quan) 0.641
+Avg 1026.217 1058.308 958.796 1052.850
+Max 2232.808 2266.708 2181.936 2273.365
+Qua 1702.014 1745.386 1608.314 1706.946
+######################## Seed 30 ########################
+JCC Vs. ICC  (Avg) 0.500  (Max) 0.468  (Quan) 0.494
+JCC Vs. SAA  (Avg) 0.578  (Max) 0.504  (Quan) 0.544
+JCC Vs. Hult  (Avg) 0.500  (Max) 0.468  (Quan) 0.494
+ICC Vs. SAA  (Avg) 0.597  (Max) 0.650  (Quan) 0.554
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.403  (Max) 0.610  (Quan) 0.461
+Avg 966.560 967.328 998.163 967.328
+Max 2234.090 2191.911 2231.321 2191.911
+Qua 1667.091 1661.666 1702.668 1661.666
+######################## Seed 31 ########################
+JCC Vs. ICC  (Avg) 0.415  (Max) 0.518  (Quan) 0.519
+JCC Vs. SAA  (Avg) 0.190  (Max) 0.473  (Quan) 0.379
+JCC Vs. Hult  (Avg) 0.415  (Max) 0.518  (Quan) 0.519
+ICC Vs. SAA  (Avg) 0.266  (Max) 0.466  (Quan) 0.375
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.734  (Max) 0.534  (Quan) 0.625
+Avg 1029.289 996.540 902.994 996.540
+Max 2204.630 2210.525 2174.362 2210.525
+Qua 1677.919 1690.598 1588.847 1690.598
+######################## Seed 32 ########################
+JCC Vs. ICC  (Avg) 0.573  (Max) 0.620  (Quan) 0.526
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.767  (Max) 0.724  (Quan) 0.664
+ICC Vs. SAA  (Avg) 0.427  (Max) 0.380  (Quan) 0.474
+ICC Vs. Hult (Avg) 0.955  (Max) 0.994  (Quan) 0.930
+SAA Vs. Hult  (Avg) 0.767  (Max) 0.724  (Quan) 0.664
+Avg 962.775 991.867 962.775 1072.380
+Max 2133.440 2265.062 2133.440 2390.297
+Qua 1635.583 1654.594 1635.583 1762.052
+######################## Seed 33 ########################
+JCC Vs. ICC  (Avg) 0.863  (Max) 0.860  (Quan) 0.847
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.863  (Max) 0.860  (Quan) 0.847
+ICC Vs. SAA  (Avg) 0.137  (Max) 0.739  (Quan) 0.217
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.863  (Max) 0.860  (Quan) 0.847
+Avg 952.800 985.810 952.800 985.810
+Max 2256.115 2280.921 2256.115 2280.921
+Qua 1673.449 1734.981 1673.449 1734.981
+######################## Seed 34 ########################
+JCC Vs. ICC  (Avg) 0.408  (Max) 0.403  (Quan) 0.372
+JCC Vs. SAA  (Avg) 0.426  (Max) 0.372  (Quan) 0.346
+JCC Vs. Hult  (Avg) 0.413  (Max) 0.405  (Quan) 0.339
+ICC Vs. SAA  (Avg) 0.511  (Max) 0.476  (Quan) 0.471
+ICC Vs. Hult (Avg) 0.547  (Max) 0.687  (Quan) 0.439
+SAA Vs. Hult  (Avg) 0.496  (Max) 0.528  (Quan) 0.504
+Avg 1027.304 991.071 996.540 994.011
+Max 2356.503 2246.281 2210.525 2247.089
+Qua 1827.673 1719.696 1690.598 1689.714
+######################## Seed 35 ########################
+JCC Vs. ICC  (Avg) 0.480  (Max) 0.450  (Quan) 0.539
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.480  (Max) 0.450  (Quan) 0.539
+ICC Vs. SAA  (Avg) 0.520  (Max) 0.551  (Quan) 0.462
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.480  (Max) 0.450  (Quan) 0.539
+Avg 963.204 954.632 963.204 954.632
+Max 2163.610 2113.346 2163.610 2113.346
+Qua 1571.205 1600.955 1571.205 1600.955
+######################## Seed 36 ########################
+JCC Vs. ICC  (Avg) 0.472  (Max) 0.763  (Quan) 0.524
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. SAA  (Avg) 0.528  (Max) 0.726  (Quan) 0.531
+ICC Vs. Hult (Avg) 0.528  (Max) 0.726  (Quan) 0.531
+SAA Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+Avg 954.632 947.281 954.632 954.632
+Max 2113.346 2126.233 2113.346 2113.346
+Qua 1600.955 1597.140 1600.955 1600.955
+######################## Seed 37 ########################
+JCC Vs. ICC  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+Avg 985.906 985.906 985.906 985.906
+Max 2219.178 2219.178 2219.178 2219.178
+Qua 1679.607 1679.607 1679.607 1679.607
+######################## Seed 38 ########################
+JCC Vs. ICC  (Avg) 0.123  (Max) 0.356  (Quan) 0.233
+JCC Vs. SAA  (Avg) 0.080  (Max) 0.356  (Quan) 0.304
+JCC Vs. Hult  (Avg) 0.156  (Max) 0.369  (Quan) 0.291
+ICC Vs. SAA  (Avg) 0.289  (Max) 0.492  (Quan) 0.555
+ICC Vs. Hult (Avg) 0.573  (Max) 0.784  (Quan) 0.592
+SAA Vs. Hult  (Avg) 0.696  (Max) 0.522  (Quan) 0.499
+Avg 1137.454 963.204 914.822 981.754
+Max 2322.278 2163.610 2158.022 2174.956
+Qua 1756.605 1571.205 1618.691 1610.233
+######################## Seed 39 ########################
+JCC Vs. ICC  (Avg) 0.584  (Max) 0.683  (Quan) 0.562
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.575  (Max) 0.750  (Quan) 0.705
+ICC Vs. SAA  (Avg) 0.416  (Max) 0.671  (Quan) 0.454
+ICC Vs. Hult (Avg) 0.491  (Max) 0.744  (Quan) 0.657
+SAA Vs. Hult  (Avg) 0.575  (Max) 0.750  (Quan) 0.705
+Avg 1065.827 1090.317 1065.827 1088.215
+Max 2270.851 2271.088 2270.851 2384.575
+Qua 1703.832 1726.490 1703.832 1807.870
+######################## Seed 40 ########################
+JCC Vs. ICC  (Avg) 0.629  (Max) 0.588  (Quan) 0.587
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.537  (Max) 0.572  (Quan) 0.466
+ICC Vs. SAA  (Avg) 0.371  (Max) 0.412  (Quan) 0.413
+ICC Vs. Hult (Avg) 0.196  (Max) 0.559  (Quan) 0.214
+SAA Vs. Hult  (Avg) 0.537  (Max) 0.572  (Quan) 0.466
+Avg 972.704 1021.846 972.704 986.951
+Max 2224.840 2328.752 2224.840 2311.108
+Qua 1668.541 1738.762 1668.541 1639.098
+######################## Seed 41 ########################
+JCC Vs. ICC  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. SAA  (Avg) 0.447  (Max) 0.401  (Quan) 0.373
+JCC Vs. Hult  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+ICC Vs. SAA  (Avg) 0.447  (Max) 0.401  (Quan) 0.373
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.553  (Max) 0.622  (Quan) 0.638
+Avg 970.241 970.241 963.204 970.241
+Max 2256.068 2256.068 2163.610 2256.068
+Qua 1616.872 1616.872 1571.205 1616.872
+######################## Seed 42 ########################
+JCC Vs. ICC  (Avg) 0.446  (Max) 0.416  (Quan) 0.547
+JCC Vs. SAA  (Avg) 0.519  (Max) 0.431  (Quan) 0.581
+JCC Vs. Hult  (Avg) 0.446  (Max) 0.416  (Quan) 0.547
+ICC Vs. SAA  (Avg) 0.575  (Max) 0.520  (Quan) 0.533
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.425  (Max) 0.479  (Quan) 0.467
+Avg 986.983 967.328 996.540 967.328
+Max 2285.311 2191.911 2210.525 2191.911
+Qua 1626.314 1661.666 1690.598 1661.666
+######################## Seed 43 ########################
+JCC Vs. ICC  (Avg) 0.445  (Max) 0.727  (Quan) 0.474
+JCC Vs. SAA  (Avg) 0.501  (Max) 0.525  (Quan) 0.420
+JCC Vs. Hult  (Avg) 0.881  (Max) 0.679  (Quan) 0.696
+ICC Vs. SAA  (Avg) 0.551  (Max) 0.535  (Quan) 0.464
+ICC Vs. Hult (Avg) 0.907  (Max) 0.684  (Quan) 0.757
+SAA Vs. Hult  (Avg) 0.899  (Max) 0.647  (Quan) 0.793
+Avg 962.775 947.281 963.204 1160.532
+Max 2133.440 2126.233 2163.610 2331.835
+Qua 1635.583 1597.140 1571.205 1787.405
+######################## Seed 44 ########################
+JCC Vs. ICC  (Avg) 0.663  (Max) 0.488  (Quan) 0.487
+JCC Vs. SAA  (Avg) 0.782  (Max) 0.970  (Quan) 0.862
+JCC Vs. Hult  (Avg) 0.663  (Max) 0.488  (Quan) 0.487
+ICC Vs. SAA  (Avg) 0.453  (Max) 0.552  (Quan) 0.574
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.548  (Max) 0.449  (Quan) 0.426
+Avg 902.994 963.204 945.919 963.204
+Max 2174.362 2163.610 2221.238 2163.610
+Qua 1588.847 1571.205 1637.070 1571.205
+######################## Seed 45 ########################
+JCC Vs. ICC  (Avg) 0.462  (Max) 0.400  (Quan) 0.442
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.348  (Max) 0.402  (Quan) 0.349
+ICC Vs. SAA  (Avg) 0.538  (Max) 0.649  (Quan) 0.566
+ICC Vs. Hult (Avg) 0.457  (Max) 0.807  (Quan) 0.509
+SAA Vs. Hult  (Avg) 0.348  (Max) 0.402  (Quan) 0.349
+Avg 983.628 972.104 983.628 963.204
+Max 2256.475 2153.578 2256.475 2163.610
+Qua 1613.010 1577.025 1613.010 1571.205
+######################## Seed 46 ########################
+JCC Vs. ICC  (Avg) 0.744  (Max) 0.569  (Quan) 0.530
+JCC Vs. SAA  (Avg) 0.529  (Max) 0.478  (Quan) 0.484
+JCC Vs. Hult  (Avg) 0.727  (Max) 0.565  (Quan) 0.540
+ICC Vs. SAA  (Avg) 0.281  (Max) 0.553  (Quan) 0.467
+ICC Vs. Hult (Avg) 0.383  (Max) 0.954  (Quan) 0.572
+SAA Vs. Hult  (Avg) 0.705  (Max) 0.449  (Quan) 0.532
+Avg 952.355 1036.129 963.384 1029.289
+Max 2268.553 2208.644 2248.452 2204.630
+Qua 1668.705 1675.848 1658.903 1677.919
+######################## Seed 47 ########################
+JCC Vs. ICC  (Avg) 0.216  (Max) 0.341  (Quan) 0.412
+JCC Vs. SAA  (Avg) 0.231  (Max) 0.764  (Quan) 0.478
+JCC Vs. Hult  (Avg) 0.200  (Max) 0.318  (Quan) 0.366
+ICC Vs. SAA  (Avg) 0.733  (Max) 0.619  (Quan) 0.557
+ICC Vs. Hult (Avg) 0.478  (Max) 0.685  (Quan) 0.479
+SAA Vs. Hult  (Avg) 0.247  (Max) 0.360  (Quan) 0.399
+Avg 1128.491 1002.653 1103.596 996.540
+Max 2426.852 2235.058 2379.153 2210.525
+Qua 1786.695 1725.493 1762.148 1690.598
+######################## Seed 48 ########################
+JCC Vs. ICC  (Avg) 0.449  (Max) 0.466  (Quan) 0.536
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.449  (Max) 0.466  (Quan) 0.536
+ICC Vs. SAA  (Avg) 0.551  (Max) 0.535  (Quan) 0.464
+ICC Vs. Hult (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+SAA Vs. Hult  (Avg) 0.449  (Max) 0.466  (Quan) 0.536
+Avg 963.204 947.281 963.204 947.281
+Max 2163.610 2126.233 2163.610 2126.233
+Qua 1571.205 1597.140 1571.205 1597.140
+######################## Seed 49 ########################
+JCC Vs. ICC  (Avg) 0.879  (Max) 0.693  (Quan) 0.722
+JCC Vs. SAA  (Avg) 1.000  (Max) 1.000  (Quan) 1.000
+JCC Vs. Hult  (Avg) 0.900  (Max) 0.700  (Quan) 0.752
+ICC Vs. SAA  (Avg) 0.121  (Max) 0.307  (Quan) 0.278
+ICC Vs. Hult (Avg) 0.592  (Max) 0.785  (Quan) 0.584
+SAA Vs. Hult  (Avg) 0.900  (Max) 0.700  (Quan) 0.752
+Avg 954.632 1137.454 954.632 1160.532
+Max 2113.346 2322.278 2113.346 2331.835
+Qua 1600.955 1756.605 1600.955 1787.405
+######################## Overall Performance ########################
+&0.582	  &0.692	  &0.623	 &0.464	  &0.785	  &0.666
+&0.609	  &0.763	  &0.613	 &0.576	  &0.885	  &0.639
+&0.574	  &0.722	  &0.599	 &0.504	  &0.791	  &0.631
+Avg 981.573 998.603 972.128 1006.697
+Max 2206.236 2213.957 2193.987 2223.125
+Qua 1650.161 1665.251 1643.404 1674.179
