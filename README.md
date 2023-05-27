@@ -15,7 +15,7 @@ To cite this code, please cite the paper using its DOI and the code itself, usin
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{CacheTest,
+@article{ZhaoChenZhang2022.0113,
   author =        {Zhao, Yue and Chen, Zhi and Zhang, Zhen Zhen},
   publisher =     {INFORMS Journal on Computing},
   title =         {Distributionally Robust Chance Constrained $p$-Hub Center Problem},
