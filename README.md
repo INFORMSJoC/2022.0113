@@ -9,9 +9,8 @@ This repository contains supporting material for the paper [Distributionally Rob
 
 ## Cite
 
-To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
-
-[![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.XXXXXXX.svg)](https://doi.org/XX.XXXX/zenodo.XXXXXXX)
+To cite this code, please cite the paper using its DOI and the code itself, using the following DOI: 
+    DOI:10.1287/ijoc.2022.0113.cd
 
 Below is the BibTex for citing this snapshot of the respoitory.
 
@@ -21,8 +20,9 @@ Below is the BibTex for citing this snapshot of the respoitory.
   publisher =     {INFORMS Journal on Computing},
   title =         {Distributionally Robust Chance Constrained $p$-Hub Center Problem},
   year =          {2023},
-  doi =         {XX.XX/zenodo.XXXXXXX},
-  url =         {https://github.com/INFORMSJoC/2022.XXXX},
+  doi =         {10.1287/ijoc.2022.0113.cd},
+  url =         {https://github.com/INFORMSJoC/2022.0113},
+  note={available for download at https://github.com/INFORMSJoC/2022.0113}
 }  
 ```
 
