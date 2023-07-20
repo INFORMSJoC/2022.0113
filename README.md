@@ -1,11 +1,11 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Distributionally Robust Chance Constrained $p$-Hub Center Problem
+# [Distributionally Robust Chance Constrained $p$-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113)
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-This repository contains supporting material for the paper [Distributionally Robust Chance Constrained p-Hub Center Problem](https://doi.org/????) by Y. Zhao, Z. Chen and Z.Z. Zhang.
+This repository contains supporting material for the paper [Distributionally Robust Chance Constrained p-Hub Center Problem]([https://doi.org/????](https://doi.org/10.1287/ijoc.2022.0113) by Y. Zhao, Z. Chen and Z.Z. Zhang.
 
 ## Cite
 
