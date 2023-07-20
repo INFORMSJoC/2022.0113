@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# [Distributionally Robust Chance Constrained $p$-Hub Center Problem](https://doi.org/10.1287/ijoc.2022.0113)
+# Distributionally Robust Chance Constrained $p$-Hub Center Problem
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
